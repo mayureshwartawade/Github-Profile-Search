@@ -22,7 +22,7 @@ A simple web application built with HTML, CSS, and JavaScript that allows you to
       * Number of Following
       * Number of Public Repositories
   * **Direct Profile Link:** A button to navigate directly to the user's GitHub profile.
-  * **Responsive Design:** (If applicable, based on your CSS) The layout adjusts for different screen sizes.
+  * **Responsive Design:** The layout adjusts for different screen sizes.
   * **Loading Indicator:** Provides feedback while fetching data.
   * **Error Handling:** Displays a message if a profile is not found.
 
@@ -39,13 +39,13 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+    git clone https://github.com/mayureshwartawade/Github-Profile-Search
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd YOUR_REPO_NAME
+    cd Github-Profile-Search
     ```
 
 3.  **Open `index.html` in your browser:**
@@ -122,7 +122,7 @@ The CSS provides a clean and modern design for the search interface and the prof
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
   transition: 0.5s ease-in;
 }
-/* ... (rest of your CSS code) ... */
+
 ```
 
 ### JavaScript (`script.js`)
