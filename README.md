@@ -8,7 +8,7 @@ A simple web application built with HTML, CSS, and JavaScript that allows you to
 
 ## 🚀 Live Demo
 
-[Link to your live demo (if available)](https://www.google.com/search?q=YOUR_LIVE_DEMO_URL_HERE)
+[https://mayureshwartawade.github.io/Github-Profile-Search/]
 
 ## ✨ Features
 
